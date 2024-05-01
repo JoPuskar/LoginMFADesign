@@ -1,0 +1,15 @@
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\bin\Debug\net8.0\LoginMFADesign.exe
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\bin\Debug\net8.0\LoginMFADesign.deps.json
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\bin\Debug\net8.0\LoginMFADesign.runtimeconfig.json
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\bin\Debug\net8.0\LoginMFADesign.dll
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\bin\Debug\net8.0\LoginMFADesign.pdb
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\obj\Debug\net8.0\LoginMFADesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\obj\Debug\net8.0\LoginMFADesign.AssemblyInfoInputs.cache
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\obj\Debug\net8.0\LoginMFADesign.AssemblyInfo.cs
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\obj\Debug\net8.0\LoginMFADesign.csproj.CoreCompileInputs.cache
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\obj\Debug\net8.0\LoginMFADesign.sourcelink.json
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\obj\Debug\net8.0\LoginMFADesign.dll
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\obj\Debug\net8.0\refint\LoginMFADesign.dll
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\obj\Debug\net8.0\LoginMFADesign.pdb
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\obj\Debug\net8.0\LoginMFADesign.genruntimeconfig.cache
+C:\Users\Student213\Documents\All\Dev\MS\SD\LoginMFADesign\obj\Debug\net8.0\ref\LoginMFADesign.dll
