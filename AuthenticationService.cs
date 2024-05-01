@@ -13,7 +13,7 @@ class AuthenticationService
         string password = Console.ReadLine();
 
         // Simulated authentication logic - replace with actual authentication logic
-        if (username == "user" && password == "password")
+        if (username == "joshi" && password == "somepassword")
         {
             return new User { Username = username, Password = password };
         }

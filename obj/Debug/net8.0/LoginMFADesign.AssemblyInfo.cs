@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginMFADesign")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1795c5cda389e8260846b9fec98f20c3dd4ce01f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d9793b16d2db7959fe54c41c981842bb233a122")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginMFADesign")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginMFADesign")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
